@@ -13,6 +13,6 @@ nav{
 .main{
     height:3000px;
     margin-top: 30px;
-    background-color: #00a3cf;
+    background: -webkit-gradient(linear, 0 0, 0 bottom, from(#000), to(#fff));
     overflow: scroll;
 }
