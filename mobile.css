@@ -4,9 +4,10 @@
 }
 
 nav{
-    position: fixed;
+    position: absolute;
     height: 30px;
     line-height: 30px;
+    top:0;
 }
 
 .main{
