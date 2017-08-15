@@ -14,4 +14,5 @@ nav{
     height:3000px;
     margin-top: 30px;
     background-color: #00a3cf;
+    overflow: scroll;
 }
